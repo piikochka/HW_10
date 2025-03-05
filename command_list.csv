@@ -1,0 +1,191 @@
+    1  git -version
+    2  git --version
+    3  man
+    4  help
+    5  man -ls
+    6  man ls
+    7  ls
+    8  clear
+    9  ls
+   10  clear
+   11  clear
+   12  clear
+   13  clear
+   14  cd desctop
+   15  cd Desktop
+   16  ls
+   17  cd ..
+   18  ls
+   19  cd music
+   20  cd Music
+   21  ls
+   22  ls ..
+   23  ls ..
+   24  cd Desktop
+   25  clear
+   26  ls
+   27  cd P
+   28  cd D
+   29  pwd
+   30  cd Desktop
+   31  mkdir Lesson
+   32  ls
+   33  mkdir Lesson 2
+   34  ls
+   35  touch empty.txt
+   36  ls
+   37  clear 
+   38  vim empty.txt
+   39  nano empty.txt
+   40  nano empty.txt
+   41  cat empty.txt
+   42  cp emty.txtp
+   43  pwd
+   44  cp /Users/nataliapeixoto/Desktop/empty.txt /Users/nataliapeixoto/Downloads
+   45  cp emty.txtp
+   46  mv cp /Users/nataliapeixoto/Desktop/empty.txt /Users/nataliapeixoto/Downloads\nnataliapeixoto@Natalias-MacBook-Air Desktop % cp emty.txtp
+   47  mv cp /Users/nataliapeixoto/Desktop/empty.txt /Users/nataliapeixoto/Downloads
+   48  mv /Users/nataliapeixoto/Desktop/empty.txt /Users/nataliapeixoto/Downloads
+   49  rm empty.txt
+   50  ping
+   51  ping google.com
+   52  date
+   53  system_profiler
+   54  df
+   55  df -h
+   56  ifconfig
+   57  ifconfig
+   58  whoami
+   59  clear
+   60  cd Desktop
+   61  cd Git
+   62  git config --global user.name "Natalia Peixoto"
+   63  git config --global user.email ndavidjuk@gmail.com
+   64  git clone https://github.com/piikochka/lesson3.1.git
+   65  cd Git
+   66  cd Desktop
+   67  cd Git
+   68  git config --global user.name "Natalia Peixoto"\n
+   69  git config --global user.email ndavidjuk@gmail.com
+   70  git clone https://github.com/piikochka/lesson3.1.git
+   71  git status
+   72  cd lesson3.1
+   73  git status
+   74  touch new.txt
+   75  git status
+   76  git add new.txt
+   77  git status
+   78  git commit -m "New file created"
+   79  git status
+   80  git log
+   81  git branch
+   82  git checkout -b new_branch
+   83  git branch
+   84  git cheout main
+   85  git branch
+   86  git checkout main
+   87  git branch
+   88  git checkout new_branch
+   89  nano New.txt
+   90  git status
+   91  git commit -m "new modified"
+   92  git branch
+   93  git checkout main
+   94  git merge new_branch
+   95  git branch
+   96  git status
+   97  git commit
+   98  git checkout new_branch
+   99  git merge main
+  100  git status
+  101  gip checkout main
+  102  git checkout main
+  103  gip status 
+  104  git status
+  105  git add new.txt
+  106  git status
+  107  git commit -m "New modified"
+  108  git push
+  109  cd
+  110  cd desktop
+  111  cd
+  112  cd desktop
+  113  cd Git
+  114  history -c && rm ~/.bash_history
+  115  git clone
+  116  git clone https://github.com/piikochka/HW_10.git
+  117  cd
+  118  cd HW_10
+  119  touch text_ignore.txt
+  120  git status
+  121  nano .gitignore
+  122  git status
+  123  git add .gitignore
+  124  cd HW_10
+  125  cd desktop
+  126  cd HW_10
+  127  Git
+  128  cd Git
+  129  cd HW_10
+  130  touch text_ignore.txt
+  131  nano .gitignore
+  132  cd Desktop
+  133  cd Git
+  134  history -c && rm ~/.bash_history
+  135  clone https://github.com/piikochka/HW_10.git
+  136  git clone https://github.com/piikochka/HW_10.git
+  137  cd HW_10
+  138  touch text_ignore.txt
+  139  nano .gitignore
+  140  git status
+  141  git add .gitignore
+  142  git add text_ignore.txt
+  143  cd desktop
+  144  cd Git
+  145  git config --global user.name "Natalia Peixoto"
+  146  git config --global user.email ndavidjuk@gmail.com
+  147  pwd
+  148  clone https://github.com/piikochka/HW_10.git
+  149  git clone https://github.com/piikochka/HW_10.git
+  150  cd HW_10
+  151  git status
+  152  touch text_ignore.txt
+  153  git status
+  154  nano .gitignore
+  155  nano .gitignore
+  156  nano .gitignore
+  157  git status
+  158  git add text_ignore.txt
+  159  git add .gitignore
+  160  git status
+  161  git commit -m "New title added"
+  162  touch main_test.txt
+  163  git add main_test.txt
+  164  git status
+  165  git commit -m "New file added"
+  166  git branch 
+  167  git checkout -b develop
+  168  git branch
+  169  touch develop_test.txt
+  170  git status
+  171  git add develop_test.txt
+  172  git status
+  173  git commit -m "new file created"
+  174  git status
+  175  nano develop_test.txt file
+  176  git status
+  177  git add develop_test.txt
+  178  get status
+  179  git commit -m "New modified"
+  180  get status
+  181  git status
+  182  git checkout main
+  183  pwd
+  184  git branch
+  185  git merge develop
+  186  git branch
+  187  git commit
+  188  git status
+  189  git branch
+  190  git push
+  191  git log
